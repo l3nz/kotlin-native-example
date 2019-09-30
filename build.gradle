@@ -36,7 +36,7 @@ def getDate = { ->
 
 
 
-group = 'l3nz'
+group = 'knativedemo'
 //name = 'marmot'
 version = '0.0.1'
 

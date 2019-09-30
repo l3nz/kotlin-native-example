@@ -1,4 +1,4 @@
-package l3nz
+package knativedemo
 
 import io.ktor.client.HttpClient
 

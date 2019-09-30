@@ -1,1 +1,2 @@
 rootProject.name = 'knativedemo'
+enableFeaturePreview('GRADLE_METADATA')
